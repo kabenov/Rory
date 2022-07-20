@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="title_email_authorization">Введите почту</string>
+    <string name="hint_email_edit_text_authorization">Введите почту</string>
+    <string name="title_password_authorization">Введите пароль</string>
+    <string name="hint_password_edit_text_authorization">Введите пароль</string>
+    <string name="hint_re_password_edit_text_authorization">Повторите пароль</string>
+    <string name="hint_firstname_edit_text_authorization">Введите имя</string>
+    <string name="hint_lastname_edit_text_authorization">Введите фамилия</string>
+    <string name="button_sign_up">Регистрация</string>
+    <string name="button_sign_in">Войти</string>
+    <string name="button_to_login">Войти</string>
+    <string name="button_to_register">Регистрация</string>
+
+    <string name="welcome_message_fmt">Привет %1s</string>
+</resources>
